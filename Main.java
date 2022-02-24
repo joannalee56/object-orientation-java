@@ -34,8 +34,6 @@ public class Main {
 
 		Melon[] melons = {melon1, melon2, melon3, melon4, melon5, melon6, melon7};
 
-		System.out.println("Instantiate objects here!");
-
 
 		getSellabilityReport(melons);
 	}
